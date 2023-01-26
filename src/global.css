@@ -1,0 +1,34 @@
+.button {
+  margin: auto 20px;
+  text-align: center;
+  height: 35px;
+  display: inline-block;
+  padding: 9px 14px 10px 14px;
+  text-transform: none;
+  border: 0px;
+  border-radius: 3px;
+  font-size: 15px;
+  font-weight: 700;
+  position: relative;
+  width: auto;
+  box-shadow: 0 6px 10px 0 rgba(27, 28, 30, 0.31);
+  color: #fff;
+  white-space: nowrap;
+  min-width: auto;
+  margin: auto 20px;
+  position: relative;
+}
+.button img {
+  vertical-align: middle;
+}
+.button-label {
+  position: relative;
+  margin-left: 5px;
+}
+
+.button-primary {
+  background-color: #1bb76e;
+}
+.button-secondary {
+  background-color: #6432f9;
+}
