@@ -143,14 +143,8 @@ export default {
   background-color: transparent;
   color: #fff;
 
-  a {
-    font-weight: bold;
+  &.router-link-exact-active {
     color: #fff;
-    text-decoration: none;
-
-    &.router-link-exact-active {
-      color: #fff;
-    }
   }
 }
 .navbar {
