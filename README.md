@@ -1,24 +1,19 @@
 # brilo_imgur_vue
 
-## Project setup
+## How to run this project
+
+Download this projec to your local folder. Write command in CLI to install the project:
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+Then run server:
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+and clic to predefined URL in CLI
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+CSS naming system is SMACSS.
