@@ -1,7 +1,7 @@
 <template>
   <div class="main-page">
     <div class="gradient-background"></div>
-    <NavBar />
+    <nav-bar />
     <router-view />
     <main-footer />
   </div>

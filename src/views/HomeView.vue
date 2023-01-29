@@ -1,35 +1,99 @@
 <template>
   <div class="home">
     dsssssssssssssss
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <img alt="Vue logo" src="../assets/logo.png" />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br /><br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
   </div>
 </template>
 
